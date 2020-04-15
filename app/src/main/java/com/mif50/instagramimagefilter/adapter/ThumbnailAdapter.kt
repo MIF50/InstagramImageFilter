@@ -1,4 +1,4 @@
-package com.mif50.instagramimagefilter.Adapter
+package com.mif50.instagramimagefilter.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
